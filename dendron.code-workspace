@@ -1,6 +1,9 @@
 {
     "folders": [
         {
+            "path": "dependencies/github.com/chinootes/chinootes.github.io/notes"
+        },
+        {
             "path": "dependencies/localhost/cs"
         },
         {
